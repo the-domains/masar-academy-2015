@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Masar Academy 2015]]></title>
         <description><![CDATA[Masar Academy 2015]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/masar-academy-2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 19:35:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 19:37:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/masar-academy-2015/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Company]]></title>
+            <description><![CDATA[<article><h1>Company</h1><p>Masar is a smart energy company primarily focusing on the Middle East & North Africa, which was selected as one of the top smart energy startups of 2015 by Rockstart Smart Energy Accelerator and Climate-KIC Hessen Accelerator The company was founded by award-winning serial entrepreneur Mo (Mohamed) El-Fatatry , who was awarded the "President of Finland's Internationalization Award" by President Halonen , and was among 200 business leaders recognized by President Obama at the 1st "Presidential Summit on Entrepreneurship".</p><img src="http://masar.io/wp-content/uploads/2014/10/Team6.png"></article>]]></description>
+            <link>http://masar.io/company/</link>
+            <guid isPermaLink="false">07e6f50b-ea10-4bc1-9035-c3eff36254d5</guid>
+            <pubDate>Wed, 21 Oct 2015 19:37:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Company]]></title>
             <description><![CDATA[<article><h1>Company</h1><p>Masar is a smart energy company primarily focusing on the Middle East & North Africa, which was selected as one of the top smart energy startups of 2015 by Rockstart Smart Energy Accelerator and Climate-KIC Hessen Accelerator The company was founded by award-winning serial entrepreneur Mo (Mohamed) El-Fatatry , who was awarded the "President of Finland's Internationalization Award" by President Halonen , and was among 200 business leaders recognized by President Obama at the 1st "Presidential Summit on Entrepreneurship".</p><img src="http://masar.io/wp-content/uploads/2014/10/Team6.png"></article>]]></description>
