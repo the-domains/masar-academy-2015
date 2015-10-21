@@ -1,0 +1,23 @@
+name: Masar Academy 2015
+favicon: null
+layout_spectrum: 0.44012644118629396
+typography_spectrum: 0.10393348382785916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7040561370085925
+  lightness: 0.04333650344051421
+  saturation: 0.08017687872052193
+  rhythmicContrast: 0.6738069003913552
+purpose: []
