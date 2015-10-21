@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Masar Academy 2015]]></title>
         <description><![CDATA[Masar Academy 2015]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/masar-academy-2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 18:57:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 19:04:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/masar-academy-2015/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">746458fa-b13c-41b7-b30b-c054ab6804b5</guid>
-            <pubDate>Wed, 21 Oct 2015 18:57:08 GMT</pubDate>
+            <title><![CDATA[The ☀ Continent Powered by the ☀]]></title>
+            <description><![CDATA[<article><h1>The ☀ Continent Powered by the ☀</h1><p>Masar is ushering a new era of smart energy in the Middle East & North Africa. News 8-24/9/2015: Masar participates in leading industry events Global Cleantech Summit and FinSolar in Helsinki. 31/8/2015: Climate-KIC selects Masar as one of its Hessen Accelerator startups of 2015. 28-29/7/2015: Masar delivers remarkable keynote at the inaugural SolarTech conference in Cairo.</p><img src="http://masar.io/wp-content/uploads/2014/10/Logo_TUAS-AMK_OnWhite-1072x4351-300x122.png"></article>]]></description>
+            <link>http://masar.io/</link>
+            <guid isPermaLink="false">96c8bbdc-ad92-435b-8267-1d1c30f2a3d8</guid>
+            <pubDate>Wed, 21 Oct 2015 18:58:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
